@@ -146,8 +146,11 @@ Body:
 5. Separate backend & frontend folders
    → Industry-standard microservice structure.
 
-6. Added UI colors to differentiate severities and extra added Service filter for user
-7. During the springboot application start up the default random 200 records will be inserted into the postgres db.
+other info:
+
+1. Added UI colors to differentiate severities and extra added Service filter for user
+2. During the springboot application start up the default random 200 records will be inserted into the postgres db.
+3. Deployed the postgres DB with sample data in render. Shared the details over reply mail.
 
 ---
 
