@@ -150,7 +150,7 @@ other info:
 
 1. Added UI colors to differentiate severities and extra added Service filter for user
 2. During the springboot application start up the default random 200 records will be inserted into the postgres db.
-3. Deployed the postgres DB with sample data in render. Shared the details over reply mail.
+3. Deployed the postgres DB with sample data in render(if needed can be used). Shared the details over reply mail. the initial springboot startup will insert data into the confirured DB configuration in the application.properties
 
 ---
 
