@@ -108,8 +108,6 @@ Filters Supported:
 - service
 - severity
 - status
-- fromTime
-- toTime
 
 ---
 
